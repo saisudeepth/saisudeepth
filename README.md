@@ -11,9 +11,7 @@
 * SQL & UNIX
 * Teradata
 * Greenplum
-* Machine Learning
-* Computer vision 
-* Natural Language Processing 
+
 
 ### My Hobbies and interests -
 * Photogarphy
