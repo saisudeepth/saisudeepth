@@ -2,30 +2,32 @@
 <h1 align="center">I'm Sai Sudeepth</h1>
 
 ### I have Professional Experience in -
-* BIGDATA DEVELOPER
+* BIGDATA DEVELOPER / DATA ENGINEER
 * SQOOP
-* HIVE
-* SPARK
+* HIVE/ IMPALA
+* SPARK/ SPARK STREAMING
 * KAFKA
 * HBASE
-* SPARK STREAMING
 * NIFI
+* AIRFLOW
+* PYTHON
+* ICEBREG
+* SQL & UNIX
+* AZURE / AWS CLOUD
 
 
 ### I have Knowledge and Interested in -
 
-* Python
 * Machine Learning
 * Computer vision 
 * Natural Language Processing 
 * PowerCenter Informatica
-* SQL & UNIX
 * Teradata
 * Greenplum
 
 
 ### My Hobbies and interests -
-* Photogarphy
+* Photography
 * Cooking
 * Chess
 * Traveling
